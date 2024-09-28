@@ -22,4 +22,8 @@ For now, all our projects and resources are available exclusively on GitHub. Fee
 
 If you would like to join the organization, please email us at **mastropseudo@gmail.com**. Be sure to include "**Nebula-Bear**" in the subject line.
 
+<div align="center">
+  <img src="https://github.com/Nebula-Bear/.github/blob/main/assets/NebulaBear1024.png" alt="NebulaBear">
+</div>
+
 [Explore our repositories](https://github.com/nebula-bear)
